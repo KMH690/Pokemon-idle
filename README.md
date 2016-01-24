@@ -1,0 +1,2 @@
+# Pokemon-idle
+useless
